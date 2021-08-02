@@ -8,6 +8,7 @@ Wanting to save lecture videos hosted on ensemblevideo to your computer? Use thi
 
 - Install Python 3.9 from the Windows Store
 - Click "Download ZIP" from the code menu on this github page:
+
 ![download_1](./media/download_1.png)
 - Extract the files in the ZIP folder
 - Run `install.py` with Python 3.9 (to install requirements, first time only)
